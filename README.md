@@ -47,6 +47,13 @@ Open your browser and go to http://localhost:3000 to see the app in action.
 This app uses environment variables for the NewsAPI key. Ensure that you create a  `.env` file with the correct API key in your root directory as shown below:
 
     REACT_APP_NEWS_API=your_api_key
+## Screenshots
+![NewsMonkey](https://github.com/user-attachments/assets/d5cdd546-c03e-416b-b409-95509c5777f7)
+<br><br><br>
+![Screenshot (71)](https://github.com/user-attachments/assets/7d2ac598-0186-46da-9e15-e9fa5dda0db7)
+<br><br><br>
+![Screenshot (73)](https://github.com/user-attachments/assets/0e683324-1f90-4f6d-9bd0-db67c104fb2a)
+
 
 ## License
 
